@@ -1,0 +1,52 @@
+[a:1:0]
+[b:2:0]
+[c:4:0]
+[d:3:0]
+CPU time to build a(n) BST: 10 millisec
+[a:1:0]
+[b:2:0]
+[c:4:0]
+[d:3:0]
+CPU time to build a(n) BST: 0 millisec
+[a:1:0]
+[b:2:0]
+[c:4:0]
+[d:3:0]
+CPU time to build a(n) BST: 0 millisec
+[a:1:0]
+[b:2:0]
+[c:4:0]
+[d:3:0]
+CPU time to build a(n) AVL: 0 millisec
+Number of words in the BST: 4 (number of insertions: 10)
+Sum of Weighted Path Lengths (BST): 29
+[a:0:10]
+[b:0:9]
+[c:0:7]
+[d:0:3]
+Total number of node accesses (BST): 29 (failed searches: 0)
+CPU time for searching keys (BST): 0 millisec
+Sum of Weighted Path Lengths (AVL): 21
+[a:0:1]
+[b:0:10]
+[c:0:7]
+[d:0:3]
+Total number of node accesses (AVL): 21 (failed searches: 0)
+CPU time for searching keys (AVL): 0 millisec
+CPU time to convert to an NOBST: 0 millisec
+Sum of Weighted Path Lengths (NOBST): 17
+[a:0:1]
+[b:0:3]
+[c:0:10]
+[d:0:3]
+Total number of node accesses (NOBST): 17 (failed searches: 0)
+CPU time for searching keys (NOBST): 0 millisec
+CPU time to convert to an OBST: 0 millisec
+Sum of Weighted Path Lengths (OBST): 17
+[a:0:1]
+[b:0:3]
+[c:0:10]
+[d:0:3]
+Total number of node accesses (OBST): 17 (failed searches: 0)
+CPU time for searching keys (OBST): 0 millisec
+Memory consumption: 5932296 bytes
